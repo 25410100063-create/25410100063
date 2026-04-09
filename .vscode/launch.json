@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HitungIPS",
+            "request": "launch",
+            "mainClass": "HitungIPS",
+            "projectName": "ezz_e0893039"
+        },
+        {
+            "type": "java",
             "name": "Latihanscanner",
             "request": "launch",
             "mainClass": "Latihanscanner",
