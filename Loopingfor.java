@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Perkalian {
+public class Loopingfor {
     public static void main (String[] args){
      Scanner input = new Scanner(System.in);
      String[] nama = new String[100];
