@@ -55,7 +55,7 @@ public class PemesananTiketZoo {
                     } else {
                         double grandTotal = 0;
                         System.out.println("\n--- Rincian Pembayaran ---");
-                        for (int i = 0; i < dataCount; i++) {
+                        for (int i = 0; i < .length; i++) {
                             double subTotal = harga[i] * jumlahBeli[i];
                             System.out.println(kategori[i] + " x " + jumlahBeli[i] + " = Rp " + subTotal);
                             grandTotal += subTotal;
